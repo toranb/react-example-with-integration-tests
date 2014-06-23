@@ -1,0 +1,24 @@
+{
+    "dependencies": {
+        "gulp": "*",
+        "react": "*",
+        "react-nested-router": "*",
+        "gulp-tsc": "*",
+        "reactify": "*",
+        "gulp-react": "*",
+        "browserify": "*",
+        "vinyl-source-stream": "*",
+        "jshint": "*",
+        "gulp-karma": "*",
+        "gulp-concat": "*",
+        "event-stream": "*",
+        "gulp-mocha-browserify-sweet": "*",
+        "phantomjs": "*",
+        "jquery": "*",
+        "karma": "*",
+        "karma-mocha": "*",
+        "karma-chai": "*",
+        "karma-phantomjs-launcher": "*",
+        "karma-chrome-launcher": "*"
+    }
+}
